@@ -8,3 +8,7 @@
 
 ## Deep Learning
 - https://www.fast.ai/
+
+
+## Software Development
+- [What does larger scale software development look like?](https://www.youtube.com/watch?v=Dl-BdxNRUqs)
