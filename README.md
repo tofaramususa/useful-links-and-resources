@@ -23,3 +23,6 @@
 
 # AI Agents
 - https://www.agentrecipes.com/
+
+# React
+- https://react.dev/learn/understanding-your-ui-as-a-tree
