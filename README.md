@@ -10,5 +10,16 @@
 - https://www.fast.ai/
 
 
-## Software Development
+## Backend Engineering
+- [Backend Engineering from first principles youtube playlist](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
+
+## Software Development Mindset
 - [What does larger scale software development look like?](https://www.youtube.com/watch?v=Dl-BdxNRUqs)
+
+
+# AI Frameworks
+- [Using CrewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+-  [Langchain Youtube](https://www.youtube.com/@LangChain)
+
+# AI Agents
+- https://www.agentrecipes.com/
