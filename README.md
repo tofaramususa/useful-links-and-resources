@@ -26,3 +26,6 @@
 
 # React
 - https://react.dev/learn/understanding-your-ui-as-a-tree
+
+# REST API
+- https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
