@@ -3,8 +3,9 @@
 
 
 
-## Web Development
+## Web Apps
 - https://webreference.com/
+- https://www.patterns.dev/
 
 ## Deep Learning
 - https://www.fast.ai/
