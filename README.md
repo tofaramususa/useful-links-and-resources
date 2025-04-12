@@ -30,3 +30,14 @@
 
 # REST API
 - https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+
+# Languages
+
+## Go
+- https://go.dev/ (Main Resources)
+- https://google.github.io/styleguide/go/
+- https://gobyexample.com/
+
+## Python
+- https://google.github.io/styleguide/pyguide.html
