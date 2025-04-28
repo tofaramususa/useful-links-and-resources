@@ -5,6 +5,7 @@
 ## Web Development
 
 - https://webreference.com/
+- https://www.patterns.dev/
 
 ## Deep Learning
 
@@ -50,7 +51,9 @@
 # Full Stack and Kubernetes courses from Finland
 - https://www.mooc.fi/en/courses/
 
-# Learning Go
+# Languages
+
+## Learning Go
 
 - [Tour of Go](https://go.dev/tour/welcome/2)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
@@ -58,3 +61,6 @@
 - [Go by Example](https://gobyexample.com/)
 - [Studying the Go Packages with Claude](https://github.com/golang/go)
 - Reading through Open Source Production Projects on Github
+
+## Python
+- https://google.github.io/styleguide/pyguide.html
