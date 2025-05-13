@@ -64,3 +64,6 @@
 
 ## Python
 - https://google.github.io/styleguide/pyguide.html
+
+##API
+- [Rate Limiting Techniques](https://smudge.ai/blog/ratelimit-algorithms)
