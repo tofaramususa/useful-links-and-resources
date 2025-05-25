@@ -47,6 +47,15 @@
 
 - https://platform.openai.com/docs/guides/production-best-practices
 
+## System Design
+- https://github.com/donnemartin/system-design-primer
+- https://kps.hashnode.dev/system-design-the-complete-course
+- https://systemdesignschool.io/primer
+- https://microservices.io/
+
+## Modern SaaS Codebase
+- https://github.com/midday-ai/midday
+
 
 # Full Stack and Kubernetes courses from Finland
 - https://www.mooc.fi/en/courses/
@@ -65,5 +74,23 @@
 ## Python
 - https://google.github.io/styleguide/pyguide.html
 
+## Typescript
+- https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup
+
 ##API
 - [Rate Limiting Techniques](https://smudge.ai/blog/ratelimit-algorithms)
+
+##Path of Senior Engineering
+- https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+
+##Software Engineering Library
+- https://kevinsmith.io/library/ -- Striving to build better software products
+
+##Understanding Codebases
+- https://deepwiki.com/
+
+##Production AI Agents
+- https://github.com/humanlayer/12-factor-agents/
+
+## Javascript
+- https://sourceacademy.org/sicpjs/index
