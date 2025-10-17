@@ -7,6 +7,12 @@
 - https://webreference.com/
 - https://www.patterns.dev/
 
+## Frontend/UI
+
+- https://tweakcn.com/ - Theme editor and generator for shadcn/ui
+- https://www.fontshare.com/ - Quality fonts, free
+- https://typescale.com/ - Typography scale generator
+
 ## Deep Learning
 
 - https://www.fast.ai/
