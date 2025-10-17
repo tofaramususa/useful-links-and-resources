@@ -1,0 +1,3 @@
+- Go from front to backwards - right the docs, write about how it works and then work to build it from launch to building
+- The research and the plan are the most important thing, they have to align with what you want to achieve, implementation is for ai
+- Test driven development is the most important now. Start with seeing the test fail and then build the feature
