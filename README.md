@@ -2,6 +2,10 @@
 
  A collection of useful internet sites that l have found useful in software dev
 
+## AI Production Systems
+
+- https://applied-llms.org/#strategy-building-with-llms-without-getting-out-maneuvered
+
 ## Web Development
 
 - https://webreference.com/
